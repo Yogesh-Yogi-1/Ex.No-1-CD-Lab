@@ -1,4 +1,4 @@
-### Ex. No : 1
+# Ex. No : 1
 
 ## IMPLEMENTATION OF SYMBOL TABLE
 
