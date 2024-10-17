@@ -1,13 +1,13 @@
 # Ex. No : 1  IMPLEMENTATION OF SYMBOL TABLE
 
-Register Number : 212223230250
-Date : 24/09/2024
+### Register Number : 212223230250
+### Date : 24/09/2024
 
-AIM:
+## AIM:
 
 To write a C program to implement a symbol table.
 
-ALGORITHM:
+## ALGORITHM:
 1. Start the program.
 2. Get the input from the user with the terminating symbol ‘$’.
 3. Allocate memory for the variable by dynamic memory allocation function.
@@ -16,7 +16,7 @@ ALGORITHM:
 6. The steps are repeated till ‘$’ is reached.
 7. To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 8. Stop the program.
-PROGRAM:
+## PROGRAM:
 ```
 #include <stdio.h>
 #include <ctype.h>
@@ -70,10 +70,10 @@ int main() {
     return 0;
 }
 ```
-OUTPUT:
+## OUTPUT:
 
 ![Screenshot from 2024-10-17 13-51-00](https://github.com/user-attachments/assets/f3930aca-799b-4800-a39a-a3dc02160cfb)
 
-RESULT:
+## RESULT:
 
 The program to implement a symbol table is executed and the output is verified.
